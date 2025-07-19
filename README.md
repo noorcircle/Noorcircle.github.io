@@ -27,7 +27,8 @@
       position: relative;
     }
 
-    header img.logo {
+    header img.logo {<img width="1024" height="1024" alt="IMG_3472" src="https://github.com/user-attachments/assets/70f19c33-7730-4f1e-bc06-d6735f1b4392" />
+
       width: 100px;
       margin-bottom: 1rem;
     }
