@@ -138,6 +138,8 @@
       <a href="#contact">Contact</a>
     </nav>
   </header>
+  <img width="1024" height="1024" alt="IMG_3472" src="https://github.com/user-attachments/assets/7db5b1f1-8360-42a2-b2a5-04ac57d5518a" />
+
 
   <section id="about">
     <h2>🌙 About Us</h2>
